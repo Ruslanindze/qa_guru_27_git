@@ -14,6 +14,6 @@ public class Main {
             IO.println("i = " + i);
         }
 
-        IO.println(String.format("Say goodbye, hang in there!"));
+        IO.println(String.format("Say goodbye, I'm Batman"));
     }
 }
